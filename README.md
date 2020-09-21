@@ -2,15 +2,31 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>mohannad ass 1</title>
+    <title>Mohannad Page</title>
 </head>
 <body>
+<style>
+    body {
+        background-image: url('./photos/kau_imges.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+</style>
 
-<img src="C:\Users\m7n6\Desktop\kau_imges.jpg" alt="kau-back">
+    <p style="font-size:30px">Mohannad Home Page Assignment</p>
+    <img src="./photos/mohannad_face.jpg" alt="mohannad" class="center">
+<br>
 
-<button type="button">Home</button>
-<button type="button">homework</button>
-<button type="button">semester project</button>
+</body>
+<body>
+
+<input type="button" onclick="window.location.href='https://www.w3docs.com';" value="home" />
+<input type="button" onclick="window.location.href='https://www.w3docs.com';" value="homework" />
+<input type="button" onclick="window.location.href='https://www.w3docs.com';" value="semester project" />
+
+<br>
+
+<h2>mohannad almotadaris CPIT 405 home page </h2>
 
 </body>
 </html>
