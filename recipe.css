@@ -1,0 +1,66 @@
+#ftitle {
+
+    text-align: center;
+    font-size: 22pt;
+}
+.body{
+    background: #F0F0F0;
+}
+
+h1{
+    font-family: "Lucida Sans";
+    color: #A4A400;
+    text-decoration: underline;
+    font-size: 35px;
+}
+
+.link{
+    font-family: "Lucida Sans";
+    color: #A4A400;
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+#highlite{
+    font-family: Georgia;
+    font-size: 11pt;
+    color: gray;
+}
+
+.bold{
+    font-family: Georgia;
+    font-size: 11pt;
+    color: #404040 ;
+    font-weight: bold;
+}
+.normal{
+    font-family: Georgia;
+    font-size: 11pt;
+    color: #404040 ;
+    font-weight: normal;
+}
+
+.paddfar{
+    font-family: Georgia;
+    font-size: 11pt;
+    color: #404040 ;
+    padding: 0px 0px 0px 100px;
+}
+
+.padd{
+
+    font-family: Georgia;
+    font-size: 11pt;
+    color: #404040 ;
+    padding: 0px 0px 0px 75px;
+}
+
+#lipadd{
+    color: aqua;
+    padding: 0px 0px 0px 1300px;
+}
+
+.img{
+    height: 100px;
+    width: 100px;
+}
