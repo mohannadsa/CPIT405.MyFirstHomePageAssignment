@@ -47,14 +47,14 @@
     position: relative;
     left: 1300px;
     width: 500px;
-    height: 2500px;
+    height: 2000px;
 }
 
 .greyback{
     position: absolute;
     left: 200px;
     width: 1100px;
-    height: 2500px;
+    height: 2000px;
 }
 
 .text1{
@@ -313,4 +313,18 @@
     height: 50px;
     width: 200%;
     background-color: #b7b7b7;
+}
+
+.footer{
+    font-size: 12px;
+    font-family: Georgia;
+    text-align: center;
+    position: absolute;
+    top: 2400px;
+    left: 300px;
+    border-radius: 10px;
+    max-width: 1000px;
+    height: 50px;
+    width: 200%;
+    background-color: grey;
 }
